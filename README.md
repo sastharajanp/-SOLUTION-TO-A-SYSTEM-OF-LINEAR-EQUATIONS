@@ -15,9 +15,9 @@ Using the np.linalg.solve(a , b), Find the solution
 End the program
 ## Program: import os
 
-# Program to find the solution for the given linear equations.
-# Developed by: SASTHARAJAN P
-# RegisterNumber: 26009606
+#Program to find the solution for the given linear equations.
+#Developed by: SASTHARAJAN P
+#RegisterNumber: 26009606
 
 os.environ["OPENBLAS_NUM_THREADS"]="1"
 import numpy as np
